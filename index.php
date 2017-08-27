@@ -11,7 +11,7 @@ github.com/Sn0bzy
 
 <body>
 
-<form name="contact" method="POST" action="gonder.php">
+<form name="contact" method="POST" action="send.php">
 
 Full Name: <input type="text" name="name" size="25"><br />
 
